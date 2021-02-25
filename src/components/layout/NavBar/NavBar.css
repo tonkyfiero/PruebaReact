@@ -1,0 +1,18 @@
+#nav--bar--menu {
+  text-align: left;
+}
+
+#nav--bar--menu ul {
+  list-style: none;
+}
+
+#nav--bar--menu li {
+  border: 1px solid black;
+  display: inline;
+  padding: 5px;
+}
+
+#nav--bar--menu a {
+  text-decoration: none;
+  font-size: 20px;
+}
